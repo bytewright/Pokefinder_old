@@ -1,0 +1,22 @@
+{
+"username" : "",
+"password" : "",
+"location" : "",
+"low_priority_ids" : [16,19,20,21,41,50],
+"locale" : "de",
+"step_limit" : 3,
+"locations" : [
+	{
+	"id" : 0,
+	"name" : "home",
+	"latitude" : 11, 
+	"longitude" : 22 
+	},
+	{
+	"id" : 1, 
+	"name" : "somewhere else", 
+	"latitude" : 33,  
+	"longitude" : 44
+	}
+]
+}
